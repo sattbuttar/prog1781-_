@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\A3SatwinderSinghP2\A3SatwinderSinghP2\bin\Debug\A3SatwinderSinghP2.exe.config
+C:\Users\Dell\Desktop\A3SatwinderSinghP2\A3SatwinderSinghP2\bin\Debug\A3SatwinderSinghP2.exe
+C:\Users\Dell\Desktop\A3SatwinderSinghP2\A3SatwinderSinghP2\bin\Debug\A3SatwinderSinghP2.pdb
+C:\Users\Dell\Desktop\A3SatwinderSinghP2\A3SatwinderSinghP2\obj\Debug\A3SatwinderSinghP2.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\A3SatwinderSinghP2\A3SatwinderSinghP2\obj\Debug\A3SatwinderSinghP2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\A3SatwinderSinghP2\A3SatwinderSinghP2\obj\Debug\A3SatwinderSinghP2.exe
+C:\Users\Dell\Desktop\A3SatwinderSinghP2\A3SatwinderSinghP2\obj\Debug\A3SatwinderSinghP2.pdb
